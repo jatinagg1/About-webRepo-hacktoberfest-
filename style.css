@@ -24,6 +24,8 @@ h1{
     font-family: 'Noto Serif', serif;
     width: 88%;
     margin: manual;
+    border-radius: 3vw;
+    box-shadow: 2px 2px 5px 1px grey;
 }
 .info h1 {
     color: rgb(0 93 225);
