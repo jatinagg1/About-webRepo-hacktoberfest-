@@ -42,4 +42,9 @@ h1{
     color: pink;
     font-family: 'fantacy', monospace;
     font-weight: normal;
+ }
+.info h6 {
+    color: crimson;
+    font-family: 'Capsicum ,annuum;
+    font-weight: 2vw;
 }
