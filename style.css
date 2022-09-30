@@ -21,6 +21,8 @@
 }
 h1{
     font-family: 'Noto Serif', serif;
+    width: 88%;
+    margin: auto;
 }
 .info h1 {
     color: rgb(0 93 225);
