@@ -38,3 +38,8 @@ h1{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
 }
+.info h6 {
+    color: pink;
+    font-family: 'fantacy', monospace;
+    font-weight: normal;
+}
