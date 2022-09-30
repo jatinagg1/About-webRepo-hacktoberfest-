@@ -38,3 +38,8 @@ h1{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
 }
+.info p {
+    color: White;
+    font-family: monospace;
+    font-weight:thin;
+}
