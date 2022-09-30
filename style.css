@@ -31,6 +31,8 @@ h1{
     font-family: 'Josefin Sans', sans-serif;
     width: 88%;
     margin: auto;
+    color: navy;  
+    margin-left: 20px;  
     /* text-align: left; */
 }
 .info p {
