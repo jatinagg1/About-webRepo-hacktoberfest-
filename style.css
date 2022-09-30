@@ -43,6 +43,12 @@ h1{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
 }
+
+.info p {
+    color: White;
+    font-family: monospace;
+    font-weight:thin;
+
 .info h6 {
     color: pink;
     font-family: 'fantacy', monospace;
@@ -52,4 +58,5 @@ h1{
     color: crimson;
     font-family: 'Capsicum ,annuum;
     font-weight: 2vw;
+
 }
