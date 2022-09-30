@@ -27,6 +27,7 @@ h1{
 .info h1 {
     color: rgb(0 93 225);
     font-size: 2vw;
+    margin-left: 20px;  
 }
 .info h4 {
     color: green;
