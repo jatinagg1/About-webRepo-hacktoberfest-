@@ -21,10 +21,13 @@
 }
 h1{
     font-family: 'Noto Serif', serif;
+    width: 88%;
+    margin: auto;
 }
 .info h1 {
     color: rgb(0 93 225);
     font-size: 2vw;
+    margin-left: 20px;  
 }
 .info h4 {
     color: green;
