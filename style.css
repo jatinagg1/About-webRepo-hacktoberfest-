@@ -55,6 +55,8 @@ h1{
     color: White;
     font-family: monospace;
     font-weight:thin;
+    margin:auto;
+    padding:10px;
 
 .info h6 {
     color: pink;
