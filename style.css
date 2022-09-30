@@ -7,20 +7,22 @@
     width: 70%;
     margin: auto;
     /* background: #c7dbff; */
-    box-shadow: 0px 0px 9px 1px grey;
+    box-shadow: 0px 0px 9px 1px green;
 }
 .info {
     width: 40%;
     display: inline-block;
     margin: 3vw;
     /* margin: auto; */
-    text-align: center;
+    text-align: middle;
     background: #e0ff00;
     border-radius: 3vw;
     box-shadow: 2px 2px 5px 1px grey;
 }
 h1{
     font-family: 'Noto Serif', serif;
+    width: 88%;
+    margin: auto;
 }
 .info h1 {
     color: rgb(0 93 225);
@@ -44,4 +46,9 @@ h1{
     color: pink;
     font-family: 'fantacy', monospace;
     font-weight: normal;
+ }
+.info h6 {
+    color: crimson;
+    font-family: 'Capsicum ,annuum;
+    font-weight: 2vw;
 }
