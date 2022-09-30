@@ -38,3 +38,10 @@ h1{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
 }
+.info h1{
+    color:blue;
+    font-size:10px;
+    margin:auto;
+    padding:10px;
+    
+}
